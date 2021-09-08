@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "908779004014",
+    "project_id": "simple-firebase-chat-74d0d",
+    "storage_bucket": "simple-firebase-chat-74d0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908779004014:android:e490a7cdff67113577867f",
+        "android_client_info": {
+          "package_name": "com.kevappsgaming.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908779004014-3ifod7jqqfuqvoh1lkn9jf0qf9otp87r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kevappsgaming.myapplication",
+            "certificate_hash": "f44d3312ccba0e9ff9c25443f0c373648d1f055a"
+          }
+        },
+        {
+          "client_id": "908779004014-k9en1hn74e316ctmvp7bnhtii5mck00v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR0TCK7LeQ01X8IPeXLKj1FVRonQAExXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908779004014-k9en1hn74e316ctmvp7bnhtii5mck00v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
